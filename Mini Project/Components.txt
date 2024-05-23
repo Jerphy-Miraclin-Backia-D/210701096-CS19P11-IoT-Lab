@@ -1,0 +1,7 @@
+SSD1306 12C OLED DISPLAY
+DHT11 SENSOR
+LDR (Light Dependent Resistor)
+10KΩ POTENTIOMETER (POT)
+AC motor
+Arduino UNO R3
+PWM AC Dimmer
